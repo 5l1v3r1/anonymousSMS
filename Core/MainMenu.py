@@ -15,7 +15,7 @@ op=int(raw_input("An0N-SMs: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd anonymousSMS && python3 sms.py")
+ os.system("cd && cd anonymousSMS && python3 Core/sms.py")
 elif(op==2):
  os.system("clear")
  os.system("cd && cd anonymousSMS && bash Core/About.sh")
