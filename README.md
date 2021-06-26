@@ -21,3 +21,8 @@
 * `bash setup.sh`
 
 #### Succesfull installed in linux!
+
+## Start anonymousSMS
+
+* `cd anonymousSMS`
+* `bash Start.sh`
