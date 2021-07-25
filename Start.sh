@@ -8,7 +8,6 @@ read a1
 clear
 cd
 cd
-figlet -f RUSTO Anonymous-SMS | lolcat -p 0.7
 cd anonymousSMS
 python2 Core/MainMenu.py
 
